@@ -80,7 +80,7 @@ The service will:
 ├── main.py # Application entry point
 ├── services/ # Core service modules
 └── utils/ # Utility functions
-
+```
 
 ## 📝 Logging
 - Logs are automatically generated in the `logs` directory
