@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "vertex-ai-test"
+version = "0.1.0"
+description = ""
+authors = ["jimshih <jim732883@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">3.10,<3.13"
+langchain-google-vertexai = "^2.0.9"
+black = {extras = ["jupyter"], version = "^24.10.0"}
+jupyter = "^1.1.1"
+notebook = "^7.3.2"
+tqdm = "^4.67.1"
+pyyaml = "^6.0.2"
+pre-commit = "^4.0.1"
+google-cloud-aiplatform = "^1.75.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

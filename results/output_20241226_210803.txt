@@ -1,0 +1,115 @@
+transaction_name: ＤＥＣＡＴＨＬＯＮ迪卡, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 迪卡儂
+transaction_name: ＤｒｅａｍｅｒｓＣｏ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Dreamers&Co民宿
+transaction_name: ＧＬＯＲＩＡＯＵＴＬ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 華泰名品城
+transaction_name: ＨＯＬＩＮＣＯＦＦＥ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 荷李活咖啡
+transaction_name: ＩＣＰ—統一百華股份有, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 統一時代百貨
+transaction_name: ＫＦＣ－台北南京東三, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 肯德基
+transaction_name: ＫＬＯＯＫ／ＦＬＩＣＫ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: KLOOK/KKday
+transaction_name: ＬＯＵＩＳＡＣＯＦＦ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 路易莎咖啡
+transaction_name: ＭｉｓｔｅｒＤｏｎｕ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Mister Donut甜甜圈
+transaction_name: ＮＯＭＯＵＳａｋｅｂａ, Response: 付款方式: 街口支付; 運送商: None; 金額: None; 通路: None; 商家名稱: NOMOUSake & Whisky Boutique
+transaction_name: ＰａｍｍａＣｏｆｆｅ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: cama café
+transaction_name: ＳｌｅｅｐＮｏＭｏ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: SleepNoMo
+transaction_name: Ｔ。Ｇ。ＩＦｒｉｄａ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: TGI FRIDAYS 星期五美式餐廳
+transaction_name: ＴＡＰＰＡＹ＿香港商驚, Response: 付款方式: TapPay; 運送商: None; 金額: None; 通路: None; 商家名稱: AmazingTalker
+transaction_name: Ｕｎｉｂｕｙ智販機－大, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Unibuy智能販賣機
+transaction_name: ＸＸＸ, Response: 請提供刷卡資料，我會依照您的指示進行分析。 😊
+transaction_name: 三南奧特萊斯股份有限公, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 三井Outlet
+transaction_name: 大手前國際餐飲有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 大手前鐵板燒
+transaction_name: 中心診所醫療財團法人中, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 中心診所醫療財團法人中心綜合醫院
+transaction_name: 巴哈帝餐飲有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 巴哈帝餐飲有限公司
+transaction_name: 台鐵局－台北站, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣鐵路管理局
+transaction_name: 台灣松下銷售股份有限公, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣松下銷售股份有限公司
+transaction_name: 台灣肯德基ＫＦＣＴａ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 肯德基
+transaction_name: 台灣鐵路管理局－台北站, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣鐵路管理局
+transaction_name: 全盈支付－Ｆａｍｉｌｙ, Response: 付款方式: 全盈支付; 運送商: None; 金額: None; 通路: None; 商家名稱: FamilyMart全家便利商店
+transaction_name: 全盈支付－全家便利商店, Response: 付款方式: 全盈支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店中和錦中店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店台南裕聖店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店－京鋒店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店延吉店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店－政富店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店－國父紀念, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店敦安店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店敦安店
+transaction_name: 全家便利商店新忠隆店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店新貿店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店龍普店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 全家便利商店－嶺先店, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+transaction_name: 江雁塘餐飲有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 江雁塘時尚鐵板燒
+transaction_name: 和雲行動服務, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 和雲行動服務
+transaction_name: 昇昌（股）公司桃園二, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 昇恆昌免稅商店
+transaction_name: 昇昌（股）公司桃園免, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 昇恆昌
+transaction_name: 松佳ＶＭ二航３樓Ｃ６走, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 松佳ＶＭ
+transaction_name: 松詠有限公司裕農站分公, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣中油新厝裕農加油站
+transaction_name: 阿爾法餐飲股份有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 阿爾法餐飲股份有限公司
+transaction_name: 冠華企業股份有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 冠華企業股份有限公司
+transaction_name: 哈珀國際有限公司劍潭營, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 哈珀國際有限公司
+transaction_name: 客路－Ｆｌｉｃｋｋｅｔ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Klook客路
+transaction_name: 荌澭有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 荌澭有限公司
+transaction_name: 財團法人中華民國證券暨, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 商線－捷醫國際生物科技, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 捷醫國際生物科技
+transaction_name: 國泰世紀產物保險股份有, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 國泰世紀產物保險
+transaction_name: 國壽保費－旅平險（網路, Response: 付款方式: 國泰人壽; 運送商: None; 金額: None; 通路: 網路; 商家名稱: None
+transaction_name: 悠遊加值－ＱＢＵＲＱＢ, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－丸林魯肉丸林, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 丸林魯肉飯
+transaction_name: 悠遊加值－中興電工中興, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－台北捷運大橋, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 台北捷運
+transaction_name: 悠遊加值－台北捷運中山, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－台北捷運公館, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 台北捷運
+transaction_name: 悠遊加值－台北捷運台電, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 台北捷運
+transaction_name: 悠遊加值－台北捷運市政, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 台北捷運
+transaction_name: 悠遊加值－台北捷運永安, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－台北捷運忠孝, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－台北捷運國父, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－台北捷運景安, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 台北捷運
+transaction_name: 悠遊加值－台北捷運象山, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－台灣高鐵高鐵, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣高鐵
+transaction_name: 悠遊加值－全家便利明曜, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: 全家便利商店; 商家名稱: None
+transaction_name: 悠遊加值－全家便利金安, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: 全家便利商店; 商家名稱: None
+transaction_name: 悠遊加值－好食集好食集, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: 好食集
+transaction_name: 悠遊加值－好食集行動餐, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: 好食集; 商家名稱: None
+transaction_name: 悠遊加值－桃園捷運機場, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－悠勢－富悠勢, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－悠遊卡簡大橋, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 悠遊加值－統一超商, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: 統一超商; 商家名稱: None
+transaction_name: 悠遊加值－統一超商宏泰, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: 統一超商; 商家名稱: 7-ELEVEN
+transaction_name: 連加＊ＡＴＴＶａｌｌ, Response: 付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 連加＊ＢｌｕｅＤｏｏ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 藍色小精靈
+transaction_name: 連加＊ＬｏｕｉｓａＣ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 路易莎咖啡
+transaction_name: 連加＊ＳａｔｕｒｎＬ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 找不到對應名字 (連加＊ＳａｔｕｒｎＬ)
+transaction_name: 連加＊早Ｐｏｗｅｒ早餐, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 連加早餐
+transaction_name: 連加＊艸？咖啡廳, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 連加艸咖啡廳
+transaction_name: 街口電支－ＨＷＣ黑沃咖, Response: 付款方式: 街口支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 黑沃咖啡
+transaction_name: 街口電支－森氏自家烘焙, Response: 付款方式: 街口支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 森氏咖啡所
+transaction_name: 街口電支－雲鼎阿二麻辣, Response: 付款方式: 街口支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 雲鼎阿二麻辣食堂
+transaction_name: 雅漾國際有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 雅漾國際有限公司
+transaction_name: 路易莎仁愛明曜門市, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 路易莎咖啡
+transaction_name: 路易莎新光基河門市, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 路易莎咖啡
+transaction_name: 綠界－德瑋股份有限公司, Response: 付款方式: 綠界; 運送商: None; 金額: None; 通路: None; 商家名稱: 德瑋股份有限公司
+transaction_name: 網購－９１ＡＰＰ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 91APP
+transaction_name: 閤家生活開發有限公司民, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 8% ice CAFÉ
+transaction_name: 潤泰旭展股份有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 潤泰旭展股份有限公司
+transaction_name: 優食－ＨＡＬＯＡＰＯ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: HALOAPO
+transaction_name: 優食－Ｈｅａｌｔｈｙ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Healthy
+transaction_name: 優食－ＪｏｈｎｎｙＢ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Johnny B.
+transaction_name: 優食－ＪｏｈｎｎｙＢｒ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: JohnnyBr
+transaction_name: 優食－Ｊｕｓｔｄａ舒食, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Justda舒食
+transaction_name: 優食－ＰｅｅｔａＴａ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Peetta 塔專賣店
+transaction_name: 優食－ＴＨＥＬＡＢＥ, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: THE LABE
+transaction_name: 優食－ＴＲＵＥＷＩＮ初, Response: 付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: TRUEWIN初韻
+transaction_name: 嚐, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 隱餐飲集團, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 隱世餐酒館
+transaction_name: 藍新－, Response: 付款方式: 藍新; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+transaction_name: 藍新－ＳｕｒｖｅｙＣａ, Response: 付款方式: 藍新支付; 運送商: None; 金額: None; 通路: None; 商家名稱: SurveyCake
+transaction_name: 鑫山國際有限公司, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 鑫山國際有限公司
+transaction_name: CO., LTD. PARIS CROISS, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 巴黎可頌
+transaction_name: COURSRA5YNPFK9FV3QJPM, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 找不到對應名字 (COURSRA5YNPFK9FV3QJPM)
+transaction_name: DISNEY PLUS, Response: 付款方式: Disney+; 運送商: None; 金額: None; 通路: None; 商家名稱: Disney+
+transaction_name: FACEBK *H4T3BYK9S2, Response: Error.
+transaction_name: FACEBK *Q4KC3XB9S2, Response: Error.
+transaction_name: GRAZIA GELATO AND COFF, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: GRAZIA GELATO AND COFF
+transaction_name: GYOCHONCHIKIN(DONGDAEM, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: GYOCHON CHICKEN (東大門店)
+transaction_name: KEIMATEU, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: KEITAMARUYAMA
+transaction_name: MC THAI (SATHONNAKORN), Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 麥當勞
+transaction_name: SEUPAO MYEONGDONGNOOSE, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 找不到對應名字 (SEUPAO MYEONGDONGNOOSE)
+transaction_name: TOOSSEOMPEULLEISEU, Response: 付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱:  Two Some Place(투썸플레이스)
