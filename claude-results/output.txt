@@ -1,0 +1,107 @@
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 迪卡儂
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Dreamers Co
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: GLORIA OUTL
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: HOLIN COFFEE
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 統一百華
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 肯德基
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: KLOOK
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 路易莎咖啡
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 統一多拿滋
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: NOMU Sakeba
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Pamma Coffee
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Sleep No Mo
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 星期五美式餐廳
+付款方式: TapPay; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Unibuy
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 找不到對應名字(XXX)
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 三南奧特萊斯
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 大手前國際餐飲
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 中心診所醫療
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 巴哈帝餐飲
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣鐵路管理局
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣松下
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 肯德基
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 台灣鐵路管理局
+付款方式: 全盈支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: 全盈支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 全家便利商店
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 江雁塘餐飲
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 和雲行動服務
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 昇昌
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 昇昌
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 松佳
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 松詠
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 阿爾法餐飲
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 冠華企業
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 哈珀國際
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: KLOOK
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 荌澭
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 中華民國證券暨期貨市場發展基金會
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 捷醫國際生物科技
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 國泰世紀產物保險
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 國泰人壽
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 悠遊卡; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: ATT
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Blue Door
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 路易莎咖啡
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Saturn
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Power早餐
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 艸咖啡廳
+付款方式: 街口支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 黑沃咖啡
+付款方式: 街口支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 森氏自家烘焙
+付款方式: 街口支付; 運送商: None; 金額: None; 通路: None; 商家名稱: 雲鼎阿二麻辣
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 雅漾國際
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 路易莎咖啡
+付款方式: 綠界; 運送商: None; 金額: None; 通路: None; 商家名稱: 德瑋
+付款方式: None; 運送商: None; 金額: None; 通路: 91APP; 商家名稱: None
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 閤家生活開發
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 潤泰旭展
+付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: HALO APO
+付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Healthy
+付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Johnny B
+付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Just Da
+付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: Peeta
+付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: The Label
+付款方式: None; 運送商: None; 金額: None; 通路: 優食; 商家名稱: True Win
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 嚐
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 隱餐飲集團
+付款方式: 藍新; 運送商: None; 金額: None; 通路: None; 商家名稱: None
+付款方式: 藍新; 運送商: None; 金額: None; 通路: None; 商家名稱: Survey Cafe
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 鑫山國際
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Paris Croissant
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: 找不到對應名字(COURSRA5YNPFK9FV3QJPM)
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Disney+
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Facebook
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: Grazia Gelato and Coffee
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: GYOCHON CHIKIN
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: KEIMATEU
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: MC THAI
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: SEUPAO
+付款方式: None; 運送商: None; 金額: None; 通路: None; 商家名稱: TOOSSEOM
